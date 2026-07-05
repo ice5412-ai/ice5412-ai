@@ -6,48 +6,37 @@ I focus on designing **gameplay flows, mechanics, and player experiences**, then
 
 I am interested in working with teams that value hands-on gameplay design, practical prototyping, and iterative development. This can be for building a new concept or improving an existing project.
 
-[Portfolio](https://jintaphumsungkirdportfolio.web.app/) • [Resume PDF](https://jintaphumsungkirdportfolio.web.app/assets/CV+Resume/Jintaphum_Sungkird_Resume.pdf) • [GitHub](https://github.com/ice5412-ai) • [Archived GitHub](https://github.com/Coldsnapz) • [Archived GitLab](https://gitlab.com/Coldsnapz/)
+[Portfolio](https://jintaphumsungkirdportfolio.web.app/) • [Resume PDF](https://jintaphumsungkirdportfolio.web.app/assets/CV+Resume/Jintaphum_Sungkird_Resume.pdf) • [Archived GitHub](https://github.com/Coldsnapz) • [Archived GitLab](https://gitlab.com/Coldsnapz/)
 
----
+## Portfolio Repositories
 
-## Featured Projects
+### 🎮 Consistenant
+
+A gamified habit-tracking application developed as a Master's dissertation project. The project explores how gacha-style progression, daily rewards, and collection systems can support habit formation and user motivation.
+
+**Focus:** Gamification, UX/UI Design, Habit Loop Design, Unity C#  
+**Links:** [Repository](https://github.com/ice5412-ai/Consistenant) • [Portfolio Page](https://jintaphumsungkirdportfolio.web.app/project-consistenant.html)
 
 ### 🎮 Rolling in the Darkness
 
-A Unity C# physics puzzle game focused on gravity control, obstacle mechanics, and level-based puzzle progression.
+A Unity C# physics puzzle game where players shift gravity to guide a ball through a dark maze, collect crystals, and restore light to the level.
 
 **Focus:** Unity C#, Physics Gameplay, Gameplay Mechanics, Level Design  
-**Links:** [Portfolio](https://jintaphumsungkirdportfolio.web.app/project-rolling.html)
+**Links:** [Repository](https://github.com/ice5412-ai/RollingInTheDarkness) • [Portfolio Page](https://jintaphumsungkirdportfolio.web.app/project-rolling.html)
 
----
+### 🎮 Project RUBICK
+
+A 2.5D isometric fighting game developed as a university team project, focused on character-based combat, social space design, and anime-inspired game presentation.
+
+**Focus:** Game Design, Character Design, Combat Concept, Unity  
+**Links:** [Repository](https://github.com/ice5412-ai/ProjectRUBICK) • [Portfolio Page](https://jintaphumsungkirdportfolio.web.app/project-rubick.html)
 
 ### 🎮 Q-It!: Exorcist Neon
 
-A gameplay prototype focused on action mechanics, combat flow, and arcade-style game feel.
+A 2D side-scrolling run-and-gun prototype built with MonoGame. The project focuses on boss-focused stages, action mechanics, and arcade-style combat flow.
 
-**Focus:** Gameplay Prototype, Combat Design, C# / MonoGame  
-**Links:** [Portfolio](https://jintaphumsungkirdportfolio.web.app/project-qit.html)
-
----
-
-### 🎮 SpacePool
-
-A playable game project focused on gameplay rules, player interaction, and system-driven mechanics.
-
-**Focus:** Game Design, Gameplay Prototype, Unity  
-**Links:** [Portfolio](https://jintaphumsungkirdportfolio.web.app/project-spacepool.html)
-
----
-
-### 🎮 Broken
-
-A 2D top-down puzzle horror game created during Chiang Mai Game Jam 2019.
-
-**Achievement:** 3rd Place, Chiang Mai Game Jam 2019  
-**Focus:** Unity, Puzzle Design, Game Jam Development  
-**Links:** [Portfolio](https://jintaphumsungkirdportfolio.web.app/project-broken.html)
-
----
+**Focus:** C# / MonoGame, Gameplay Prototype, Combat Design, Boss Mechanics  
+**Links:** [Repository](https://github.com/ice5412-ai/Q-IT) • [Portfolio Page](https://jintaphumsungkirdportfolio.web.app/project-qit.html)
 
 ## Professional Experience
 
@@ -63,8 +52,6 @@ Designed gacha features, web-shop flows, promotional packages, and Source & Sink
 
 Designed and prototyped level mechanics, including a Level Builder and Dimension Mechanic, while coordinating with artists and programmers.
 
----
-
 ## Skills
 
 **Game Development**  
@@ -76,8 +63,6 @@ Technical Game Design, Gameplay Flow Design, Gameplay Iteration, Level Design, U
 **Tools**  
 Unity, Unreal Engine 5, Git, Figma, Photoshop, Blender
 
----
-
 ## Highlights
 
 - Master of Design, Iwate University
@@ -85,13 +70,3 @@ Unity, Unreal Engine 5, Git, Figma, Photoshop, Blender
 - Chiang Mai Game Jam 2019, 3rd Place
 - 10+ Academic and Personal Game Projects
 - 2+ Years in Game Industry through internship and full-time roles
-
----
-
-## Links
-
-- Portfolio: https://jintaphumsungkirdportfolio.web.app/
-- Resume: https://jintaphumsungkirdportfolio.web.app/assets/CV+Resume/Jintaphum_Sungkird_Resume.pdf
-- GitHub: https://github.com/ice5412-ai
-- Archived GitHub: https://github.com/Coldsnapz
-- Archived GitLab: https://gitlab.com/Coldsnapz/
